@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=GraphicCard
+comment1.params=
+comment1.target=GraphicCard()
+comment2.params=brand\ model\ price\ dateSold
+comment2.target=GraphicCard(java.lang.String,\ java.lang.String,\ double,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getBrand()
+comment4.params=
+comment4.target=java.lang.String\ getModel()
+comment5.params=
+comment5.target=double\ getPrice()
+comment6.params=
+comment6.target=java.lang.String\ getDateSold()
+comment7.params=brand\ model\ price\ dateSold
+comment7.target=void\ setData(java.lang.String,\ java.lang.String,\ double,\ java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9
