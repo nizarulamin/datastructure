@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Post2Infix
+comment1.params=x
+comment1.target=boolean\ isOperand(char)
+comment2.params=exp
+comment2.target=java.lang.String\ getInfix(java.lang.String)
+comment3.params=a
+comment3.target=void\ main(java.lang.String[])
+numComments=4
